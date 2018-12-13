@@ -1,0 +1,24 @@
+@import "bootstrap";
+
+body {
+  background-image: asset_url("images/bg-diamond.jpg");
+  #app {
+
+    .movie {
+      margin-bottom: 25px;
+      .title {
+        font-size: 18px;
+        .text {
+          color: royalblue;
+        }
+      }
+      .poster-url {
+        width: 150px;
+        height: auto;
+      }
+      .fa-star {
+        color: #E4BB24;
+      }
+    }
+  }
+}

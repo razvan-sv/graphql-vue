@@ -1,0 +1,2 @@
+class ProductionHouse < ApplicationRecord
+end
